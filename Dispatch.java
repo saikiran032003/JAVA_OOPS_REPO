@@ -1,4 +1,5 @@
-/*class A{
+//dynamic method dispatch 
+class A{
     void callme()
     {
         System.out.println("hanuman");
@@ -27,7 +28,12 @@ class Dispatch{
         r=c;
         r.callme();
     }
-}*/
+}
+/*output
+hanuman
+pavanasutanama anjaniputra
+panchamuka hanuman*/
+//Variable hiding
 class A{
         int x=10;
 }
@@ -40,3 +46,5 @@ class Dispatch{
     System.out.println(a.x);
 }
 }
+/*output
+    10*/
