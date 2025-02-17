@@ -16,3 +16,7 @@ class overloading{
             s.add(1,3,4,9);
         }
     }
+/*output
+ 3
+15
+17*/
