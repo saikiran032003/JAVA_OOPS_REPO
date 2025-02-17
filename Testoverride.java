@@ -18,3 +18,7 @@ class Testoveride{
         m3.method();
     }
 }
+/*output
+Chanting Lord Rama is very powerful
+Chanting Lord Krishna can solve our problems
+Chanting Lord Krishna can solve our problems*/
